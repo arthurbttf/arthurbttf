@@ -1,7 +1,7 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
           
 <div align="left">
-<h2> Oi, eu sou o <a href="https://arthurbttf.github.io/Midnights_website/" target="_blank"> Arthur</a>! <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> </h2>
+<h2> Oi, eu sou o Arthur! <a href="https://arthurbttf.github.io/Midnights_website/#projectos" target="_blank">Olha o que eu ando fazendo</a> <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> </h2>
 </div>
 
 
@@ -18,7 +18,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width='50' height='50'/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg"  width='50' height='50'/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width='50' height='50'/><br>
-<p>Sempre estou de olho no que eu posso automatizar.</p>
+<p>Sempre de olho no que eu posso automatizar.</p>
 
 <h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> ~$ sudo rm -rf / <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"></h3></div>
 <br>
