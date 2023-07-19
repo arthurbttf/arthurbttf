@@ -14,8 +14,8 @@
   <br>
   <div align="center">
 <img src="https://raw.githubusercontent.com/arthurbttf/arthurbttf/main/icons8-bash.svg" width='60' height='60'/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width='50' height='50'/>   
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width='50' height='50'/>
+<img src="https://cdn-images-1.medium.com/v2/resize:fit:1200/1*5-aoK8IBmXve5whBQM90GA.png" width='50' height='50'/>   
+<img src="https://miro.medium.com/v2/resize:fit:900/0*1QVqmVbbaVm1f_n9.png" width='50' height='50'/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg"  width='50' height='50'/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width='50' height='50'/><br>
 <p>Sempre de olho no que eu posso automatizar.</p>
